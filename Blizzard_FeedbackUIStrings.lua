@@ -1,5 +1,5 @@
 ﻿
-project_name = "Edge of Chaos";  -- Put your project name here to replace all uses of World of Warcraft in strings with your projects' name.
+project_name = "Duskhaven Reforged";  -- Put your project name here to replace all uses of World of Warcraft in strings with your projects' name.
 
 FEEDBACKUI_RED = "|cFFFF0000"
 FEEDBACKUI_WHITE = "|cFFFFFFFF"
